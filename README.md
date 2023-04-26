@@ -1,15 +1,11 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=luchamas&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=luchamas&show_icons=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=81c9fa&cache_seconds=2300">
 
-### Faça um breve apresentação sobre você
-
-<img src="https://img.shields.io/static/v1?label=Overview&message=Luchamas&color=f8efd4&style=for-the-badge&logo=GitHub">
-
-<p>
-
-Cursando Ciência da Computação na **UNIFACEF**<br/>
+### Bem vindo ao meu perfil
 
 
 
+- Cursando Ciência da Computação na **UNIFACEF**<br/>
+- Proficiência com JavaScript, HTML e CSS
+- E-Mail para contato: lucasmabrahao10@gmail.com
 
-</p>
-<hr>
+
