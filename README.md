@@ -1,11 +1,12 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=luchamas&show_icons=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=81c9fa&cache_seconds=2300">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=luchamas&show_icons=true&title_color=ffff&text_color=fffff0&icon_color=ffff00&bg_color=130040&cache_seconds=2300">
 
-### Bem vindo ao meu perfil
+### 👋 Bem vindo ao meu perfil
 
+<hr>
 
-
-- Cursando Ciência da Computação na **UNIFACEF**<br/>
-- Proficiência com JavaScript, HTML e CSS
-- E-Mail para contato: lucasmabrahao10@gmail.com
+- 🙋‍♂️ Me chamo Lucas Macedo Abrahão
+- 📖 Cursando Ciência da Computação na **UNIFACEF**<br/>
+- 🖥️ Proficiência em JavaScript, HTML e CSS
+- 📫 E-Mail para contato: lucasmabrahao10@gmail.com
 
 
