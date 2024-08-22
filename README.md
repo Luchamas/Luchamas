@@ -6,7 +6,7 @@
 
 - 🙋‍♂️ Me chamo Lucas Macedo Abrahão
 - 📖 Cursando Ciência da Computação na **UNIFACEF**<br/>
-- 🖥️ Proficiência em JavaScript, HTML e CSS
+- 🖥️ Proficiência em JavaScript, HTML, CSS e SQL
 - 📫 Meu E-Mail: lucasmabrahao10@gmail.com
 
 
